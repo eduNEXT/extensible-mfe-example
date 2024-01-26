@@ -1,0 +1,28 @@
+{
+  "name": "@edunext/extensible-mfe-example",
+  "version": "1.0.0",
+  "description": "basic configuration for adding mfe extension",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eduNEXT/extensible-mfe-example.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduNEXT/extensible-mfe-example/issues"
+  },
+  "homepage": "https://github.com/eduNEXT/extensible-mfe-example#readme",
+  "dependencies": {
+    "@loadable/component": "*",
+    "use-deep-compare-effect": "*",
+    "@openedx-plugins/example-app-example-plugin": "file:plugins/PluginExample"
+  },
+  "devDependencies": {
+    "@testing-library/react-hooks": "*",
+    "eslint-import-resolver-alias": "*",
+    "eslint-import-resolver-webpack": "*",
+    "eslint-plugin-import": "*"
+  }
+}
