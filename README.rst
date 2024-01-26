@@ -7,7 +7,7 @@ Extensible MFE example
 Purpose
 -------
 
-This repository provides a foundational configuration for integrating new extensions into any Micro Frontend (MFE). Currently, the configuration requires updates within the specific MFE where you intend to implement the feature. The content of this repository includes the initial setup for facilitating this configuration process.
+This repository provides a foundational configuration for integrating new extensions into any Micro Frontend (MFE). Currently, the configuration requires updates within the specific MFE where you intend to implement the feature. The content of this repository includes the initial setup for facilitating this configuration process. `Here is the original implementation <https://github.com/openedx/frontend-app-communications/pull/184>`_
 
 
 Configuration
